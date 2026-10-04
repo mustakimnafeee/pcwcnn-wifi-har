@@ -1,0 +1,17 @@
+# Decoded dataset (rebuilt automatically from the raw WiAR files on the first run)
+data/
+*.npz
+
+# Results written by run.py and paper_figures.py
+output/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
